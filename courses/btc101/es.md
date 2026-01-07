@@ -107,15 +107,15 @@ El movimiento cypherpunk, profundamente arraigado en el activismo digital y la c
 
 - El "Manifiesto Cypherpunk":
 
-escrito por Eric Hughes en 1993, el "Manifiesto Cypherpunk" afirma que la privacidad es un derecho fundamental. El autor sostiene que la capacidad de comunicarse libre y confidencialmente es esencial para una sociedad libre. El manifiesto afirma: "No podemos esperar que los gobiernos, las empresas u otras grandes organizaciones sin rostro nos concedan privacidad [...]. Debemos defender nuestra propia privacidad si esperamos tener alguna".
+Escrito por Eric Hughes en 1993, el "Manifiesto Cypherpunk" afirma que la privacidad es un derecho fundamental. El autor sostiene que la capacidad de comunicarse libre y confidencialmente es esencial para una sociedad libre. El manifiesto afirma: "No podemos esperar que los gobiernos, las empresas u otras grandes organizaciones sin rostro nos concedan privacidad [...]. Debemos defender nuestra propia privacidad si esperamos tener alguna".
 
 - El "Manifiesto criptoanarquista":
 
-escrito por Timothy C. May en 1992, este documento explica cómo el uso de la criptografía podría conducir a una era de anarquía criptográfica en la que los gobiernos serían impotentes para interferir en los asuntos privados de los ciudadanos. May imaginaba un futuro en el que las personas intercambiarían información y dinero de forma anónima sin la intervención de terceros.
+Escrito por Timothy C. May en 1992, este documento explica cómo el uso de la criptografía podría conducir a una era de anarquía criptográfica en la que los gobiernos serían impotentes para interferir en los asuntos privados de los ciudadanos. May imaginaba un futuro en el que las personas intercambiarían información y dinero de forma anónima sin la intervención de terceros.
 
 - La "Declaración de Independencia del Ciberespacio":
 
-aunque no es exclusivamente cypherpunk, este texto refleja el sentir de muchos participantes en el movimiento. Escrito en 1996 por John Perry Barlow, es una respuesta a la creciente regulación de Internet por parte de los gobiernos. La declaración afirma que el ciberespacio es un reino distinto de la esfera física y no debería estar sujeto a las mismas leyes. Como afirma: "No tenemos un gobierno electo, ni es probable que lo tengamos".
+Aunque no es exclusivamente cypherpunk, este texto refleja el sentir de muchos participantes en el movimiento. Escrito en 1996 por John Perry Barlow, es una respuesta a la creciente regulación de Internet por parte de los gobiernos. La declaración afirma que el ciberespacio es un reino distinto de la esfera física y no debería estar sujeto a las mismas leyes. Como afirma: "No tenemos un gobierno electo, ni es probable que lo tengamos".
 
 ### Los predecesores de Bitcoin
 
@@ -155,7 +155,7 @@ La evolución del dinero es un aspecto fascinante de la historia de la humanidad
 
 ![image](assets/es/006.webp)
 
-### De las conchas a las cuentas bancarias
+### De las semillas a las cuentas bancarias
 
 Originalmente, la moneda era un bien tangible, como el grano, el ganado u otra mercancía. Sin embargo, estos bienes tenían la gran desventaja de ser perecederos, lo que dificultaba su uso como medio de ahorro a largo plazo. Por ejemplo, las malas cosechas o las enfermedades de los animales podían destruir la riqueza de un individuo de la noche a la mañana.
 
@@ -186,7 +186,7 @@ Por estas razones, el oro como dinero es el resultado de 4.000 años de darwinis
 
 ### Las características del dinero
 
-El oro reúne los criterios ideales para ser una moneda eficaz: su rareza natural lo hace valioso, mientras que sus propiedades químicas garantizan que no se erosione con el paso del tiempo. Estas características han hecho del oro un gran **almacén de valor**, pero no una moneda corriente, porque esta forma de dinero no es fácilmente divisible ni transportable a largas distancias. En un mundo globalizado y digital, al oro le cuesta seguir el ritmo y necesita una entidad central que lo haga divisible y fácilmente intercambiable (es decir, mediante monedas acuñadas).
+El oro reúne los criterios ideales para ser una moneda eficaz: su rareza natural lo hace valioso, mientras que sus propiedades químicas garantizan que no se erosione con el paso del tiempo. Estas características han hecho del oro una gran **reserva de valor**, pero no una moneda corriente, porque esta forma de dinero no es fácilmente divisible ni transportable a largas distancias. En un mundo globalizado y digital, al oro le cuesta seguir el ritmo y necesita una entidad central que lo haga divisible y fácilmente intercambiable (es decir, mediante monedas acuñadas).
 
 Por el contrario, las monedas fiduciarias estatales (fiat) son fácilmente utilizables, pero están constantemente devaluadas por las entidades que las controlan (reyes, bancos centrales, emperadores, dictadores).
 
@@ -202,7 +202,7 @@ Para cumplir estos criterios, la moneda ha evolucionado históricamente dando di
 
 - Piedra bruta -> Moneda
 - Billete -> Tarjeta bancaria
-- Blockchain -> Red Rayo
+- Blockchain -> Lightning Network
 
 Las monedas siguen evolucionando a día de hoy, adaptando sus formas para satisfacer diferentes casos de uso. Como decíamos, aunque el oro es un excelente depósito de valor, ya no es adecuado para la actual economía globalizada. Del mismo modo, las monedas fiduciarias como el dólar y el euro son muy líquidas y fácilmente transportables porque ahora son en su mayoría digitales, pero su valor disminuye constantemente debido a la inflación monetaria.
 
